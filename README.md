@@ -14,5 +14,32 @@ The framework is complemented by differentiable MS-SSIM loss [in implementation 
 ### Requirements
 - python 3.5 +
 - pytorch 0.2.0 +
+
 Optionally
-- visdom for visualization ``` pip install visdom dominate ```
+- visdom and dominate for visualization ``` pip install visdom dominate ```
+
+### Run the code
+The easiest way to run training / testing:
+
+1. Prepare your dataset as following
+```
+-datasets/
+        -facades/
+                -train/
+                        ...
+                        ...
+                -test/
+                        ...
+                        ...
+```
+where `/train` and `/test` contains image pairs concatenated along horizontal axis.
+
+1.5. (run `visdom` to open training visualization)
+2. Run `run.sh` or `runtest.sh` correspondingly (you may also just copy the code to the command line).
+3. Find the checkpoints and output in `/checkpoints` and `/results`.
+
+</br>
+</br>
+
+
+#### Please cite the paper if you find code useful
