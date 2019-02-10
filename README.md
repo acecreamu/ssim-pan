@@ -32,7 +32,7 @@ datasets/
                        ...
                        ...
 ```
-where `/train` and `/test` contains image pairs concatenated along horizontal axis.
+where `/train` and `/test` contains image pairs concatenated along a horizontal axis – the aim domain on the left, the initial domain on the right.
 
 2. Run `visdom` to open training visualization (optional).
 3. Run `run.sh` or `runtest.sh` correspondingly (you may also just copy the code to the command line).
