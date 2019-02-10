@@ -43,11 +43,10 @@ where `/train` and `/test` contains image pairs concatenated along a horizontal 
 -----
 #### Please kindly cite the paper if you use the code!
 
-----
+-----
+<br>
+
 #### Benefit of MS-SSIM loss illustrated on other datasets
-<br>
-<br>
-<br>
 
 ![image_fig5](https://github.com/acecreamu/ssim-pan/blob/master/figs/fig5.jpg)
 
