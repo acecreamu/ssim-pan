@@ -39,10 +39,12 @@ where `/train` and `/test` contains image pairs concatenated along a horizontal 
 4. Find the checkpoints and output in `/checkpoints` and `/results`.
 
 </br>
-</br>
+
 ### Benefit of MS-SSIM loss ilustrated on other datasets
 
 ![image_fig5](https://github.com/acecreamu/ssim-pan/blob/master/figs/fig5.jpg)
+
 </br>
 </br>
+
 #### Please kindly cite the paper if you use the code!
