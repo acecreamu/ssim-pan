@@ -34,9 +34,9 @@ The easiest way to run training / testing:
 ```
 where `/train` and `/test` contains image pairs concatenated along horizontal axis.
 
-1.5 (run `visdom` to open training visualization)
-2. Run `run.sh` or `runtest.sh` correspondingly (you may also just copy the code to the command line).
-3. Find the checkpoints and output in `/checkpoints` and `/results`.
+2. Run `visdom` to open training visualization (optional).
+3. Run `run.sh` or `runtest.sh` correspondingly (you may also just copy the code to the command line).
+4. Find the checkpoints and output in `/checkpoints` and `/results`.
 
 </br>
 </br>
