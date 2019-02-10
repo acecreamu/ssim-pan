@@ -1,4 +1,4 @@
-<img src='imgs_readme/top.jpg' align="center">
+# Generative Smoke Removal – efficient image desmoking using GAN
 
-# pix2pix and PAN(Parceptual Adversarial Networks) in PyTorch
+Supplementary code to the paper [O Sidorov, C Wang, FA Cheikh. Generative Smoke Removal](https://arxiv.org/abs/1902.00311) (Submitted to ICIP 2019).
 
